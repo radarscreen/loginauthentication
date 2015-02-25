@@ -1,0 +1,32 @@
+/*// Example using bootswatch
+//
+// First import  variables*/
+@import "bootswatch/slate/variables";
+
+/*// Then bootstrap itself*/
+@import "bootstrap";
+
+/*// And finally bootswatch style itself*/
+@import "bootswatch/slate/bootswatch";
+
+/*// If you want to import your own styles just use 
+
+// Here are the free themes you can use:
+
+// Amelia
+// Cerulean
+// Cosmo
+// Cyborg
+// Darkly
+// Flatly
+// Cerulean
+// Lumen
+// Paper
+// Readable
+// Sandstone
+// Simplex
+// Slate
+// Spacelab
+// Superhero
+// United
+// Yeti*/
